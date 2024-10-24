@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @neauxthanks, otherwise known as Neaux "no." Colon. I am a recent grad who is super excited to put my skills to work.
-- 👀 I’m interested in working in Python, Java, Javascript, C# and learning new languages and skills.
-- 🌱 I’m currently learning Web App Development.
+- 👋 Hi, I’m @neauxthanks, otherwise known as Neaux "no." Colon.
+- 🌱 I’m interested in Web App Development.
+- 👀 My tech stack includes vanilla HTML, CSS, HTMX, FastAPI, Python, and SQLite.
 - 📫 Please email me at alexaleighcolon@gmail.com for any work related inquiries.
 
 <!---
